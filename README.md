@@ -19,5 +19,5 @@ Synchronized with RH-SSO versioning.
 
 ## Author
 
-Malys for [Lyra](https://lyra.com).
+Sylvain M. for [Lyra](https://lyra.com).
 
